@@ -1,4 +1,4 @@
-Contact: xxx
+Contact: XXX
 
 # Scientific workflow GitHub workshop
 
